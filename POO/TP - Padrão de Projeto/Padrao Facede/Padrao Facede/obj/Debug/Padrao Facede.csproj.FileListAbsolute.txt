@@ -1,0 +1,8 @@
+D:\Faculdade\3º\POO\TP - Padrão de Projeto\Padrao Facede\Padrao Facede\bin\Debug\Padrao Facede.exe.config
+D:\Faculdade\3º\POO\TP - Padrão de Projeto\Padrao Facede\Padrao Facede\bin\Debug\Padrao Facede.exe
+D:\Faculdade\3º\POO\TP - Padrão de Projeto\Padrao Facede\Padrao Facede\bin\Debug\Padrao Facede.pdb
+D:\Faculdade\3º\POO\TP - Padrão de Projeto\Padrao Facede\Padrao Facede\obj\Debug\Padrao Facede.csproj.AssemblyReference.cache
+D:\Faculdade\3º\POO\TP - Padrão de Projeto\Padrao Facede\Padrao Facede\obj\Debug\Padrao Facede.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\3º\POO\TP - Padrão de Projeto\Padrao Facede\Padrao Facede\obj\Debug\Padrao Facede.csproj.CoreCompileInputs.cache
+D:\Faculdade\3º\POO\TP - Padrão de Projeto\Padrao Facede\Padrao Facede\obj\Debug\Padrao Facede.exe
+D:\Faculdade\3º\POO\TP - Padrão de Projeto\Padrao Facede\Padrao Facede\obj\Debug\Padrao Facede.pdb
