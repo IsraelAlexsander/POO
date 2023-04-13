@@ -1,0 +1,8 @@
+D:\Faculdade\3º\POO\08\08\bin\Debug\08.exe.config
+D:\Faculdade\3º\POO\08\08\bin\Debug\08.exe
+D:\Faculdade\3º\POO\08\08\bin\Debug\08.pdb
+D:\Faculdade\3º\POO\08\08\obj\Debug\08.csproj.AssemblyReference.cache
+D:\Faculdade\3º\POO\08\08\obj\Debug\08.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\3º\POO\08\08\obj\Debug\08.csproj.CoreCompileInputs.cache
+D:\Faculdade\3º\POO\08\08\obj\Debug\08.exe
+D:\Faculdade\3º\POO\08\08\obj\Debug\08.pdb

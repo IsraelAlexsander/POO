@@ -1,0 +1,8 @@
+D:\Faculdade\3º\POO\11\11\bin\Debug\11.exe.config
+D:\Faculdade\3º\POO\11\11\bin\Debug\11.exe
+D:\Faculdade\3º\POO\11\11\bin\Debug\11.pdb
+D:\Faculdade\3º\POO\11\11\obj\Debug\11.csproj.AssemblyReference.cache
+D:\Faculdade\3º\POO\11\11\obj\Debug\11.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\3º\POO\11\11\obj\Debug\11.csproj.CoreCompileInputs.cache
+D:\Faculdade\3º\POO\11\11\obj\Debug\11.exe
+D:\Faculdade\3º\POO\11\11\obj\Debug\11.pdb
