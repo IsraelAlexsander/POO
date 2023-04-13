@@ -1,0 +1,6 @@
+D:\Faculdade\3º\POO\LibMinha\LibMinha\bin\Debug\LibMinha.dll
+D:\Faculdade\3º\POO\LibMinha\LibMinha\bin\Debug\LibMinha.pdb
+D:\Faculdade\3º\POO\LibMinha\LibMinha\obj\Debug\LibMinha.csproj.AssemblyReference.cache
+D:\Faculdade\3º\POO\LibMinha\LibMinha\obj\Debug\LibMinha.csproj.CoreCompileInputs.cache
+D:\Faculdade\3º\POO\LibMinha\LibMinha\obj\Debug\LibMinha.dll
+D:\Faculdade\3º\POO\LibMinha\LibMinha\obj\Debug\LibMinha.pdb
