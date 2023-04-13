@@ -1,0 +1,8 @@
+D:\Faculdade\3º\POO\19\19\bin\Debug\19.exe.config
+D:\Faculdade\3º\POO\19\19\bin\Debug\19.exe
+D:\Faculdade\3º\POO\19\19\bin\Debug\19.pdb
+D:\Faculdade\3º\POO\19\19\obj\Debug\19.csproj.AssemblyReference.cache
+D:\Faculdade\3º\POO\19\19\obj\Debug\19.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\3º\POO\19\19\obj\Debug\19.csproj.CoreCompileInputs.cache
+D:\Faculdade\3º\POO\19\19\obj\Debug\19.exe
+D:\Faculdade\3º\POO\19\19\obj\Debug\19.pdb

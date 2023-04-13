@@ -1,0 +1,8 @@
+D:\Faculdade\3º\POO\20\20\obj\Debug\20.csproj.AssemblyReference.cache
+D:\Faculdade\3º\POO\20\20\obj\Debug\20.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\3º\POO\20\20\obj\Debug\20.csproj.CoreCompileInputs.cache
+D:\Faculdade\3º\POO\20\20\bin\Debug\20.exe.config
+D:\Faculdade\3º\POO\20\20\bin\Debug\20.exe
+D:\Faculdade\3º\POO\20\20\bin\Debug\20.pdb
+D:\Faculdade\3º\POO\20\20\obj\Debug\20.exe
+D:\Faculdade\3º\POO\20\20\obj\Debug\20.pdb

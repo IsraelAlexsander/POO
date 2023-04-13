@@ -1,0 +1,8 @@
+D:\Faculdade\3º\POO\23\23\bin\Debug\23.exe.config
+D:\Faculdade\3º\POO\23\23\bin\Debug\23.exe
+D:\Faculdade\3º\POO\23\23\bin\Debug\23.pdb
+D:\Faculdade\3º\POO\23\23\obj\Debug\23.csproj.AssemblyReference.cache
+D:\Faculdade\3º\POO\23\23\obj\Debug\23.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\3º\POO\23\23\obj\Debug\23.csproj.CoreCompileInputs.cache
+D:\Faculdade\3º\POO\23\23\obj\Debug\23.exe
+D:\Faculdade\3º\POO\23\23\obj\Debug\23.pdb
