@@ -1,0 +1,8 @@
+D:\Faculdade\3º\POO\Lista Classes Abstratas e Interfaces\02\02\bin\Debug\02.exe.config
+D:\Faculdade\3º\POO\Lista Classes Abstratas e Interfaces\02\02\bin\Debug\02.exe
+D:\Faculdade\3º\POO\Lista Classes Abstratas e Interfaces\02\02\bin\Debug\02.pdb
+D:\Faculdade\3º\POO\Lista Classes Abstratas e Interfaces\02\02\obj\Debug\02.csproj.AssemblyReference.cache
+D:\Faculdade\3º\POO\Lista Classes Abstratas e Interfaces\02\02\obj\Debug\02.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\3º\POO\Lista Classes Abstratas e Interfaces\02\02\obj\Debug\02.csproj.CoreCompileInputs.cache
+D:\Faculdade\3º\POO\Lista Classes Abstratas e Interfaces\02\02\obj\Debug\02.exe
+D:\Faculdade\3º\POO\Lista Classes Abstratas e Interfaces\02\02\obj\Debug\02.pdb
