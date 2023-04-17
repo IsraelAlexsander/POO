@@ -1,0 +1,14 @@
+D:\Faculdade\3º\POO\POO\IntroducaoForm\IntroducaoForm\bin\Debug\IntroducaoForm.exe.config
+D:\Faculdade\3º\POO\POO\IntroducaoForm\IntroducaoForm\bin\Debug\IntroducaoForm.exe
+D:\Faculdade\3º\POO\POO\IntroducaoForm\IntroducaoForm\bin\Debug\IntroducaoForm.pdb
+D:\Faculdade\3º\POO\POO\IntroducaoForm\IntroducaoForm\obj\Debug\IntroducaoForm.csproj.AssemblyReference.cache
+D:\Faculdade\3º\POO\POO\IntroducaoForm\IntroducaoForm\obj\Debug\IntroducaoForm.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\3º\POO\POO\IntroducaoForm\IntroducaoForm\obj\Debug\IntroducaoForm.Form1.resources
+D:\Faculdade\3º\POO\POO\IntroducaoForm\IntroducaoForm\obj\Debug\IntroducaoForm.Properties.Resources.resources
+D:\Faculdade\3º\POO\POO\IntroducaoForm\IntroducaoForm\obj\Debug\IntroducaoForm.csproj.GenerateResource.cache
+D:\Faculdade\3º\POO\POO\IntroducaoForm\IntroducaoForm\obj\Debug\IntroducaoForm.csproj.CoreCompileInputs.cache
+D:\Faculdade\3º\POO\POO\IntroducaoForm\IntroducaoForm\obj\Debug\IntroducaoForm.exe
+D:\Faculdade\3º\POO\POO\IntroducaoForm\IntroducaoForm\obj\Debug\IntroducaoForm.pdb
+D:\Faculdade\3º\POO\POO\IntroducaoForm\IntroducaoForm\bin\Debug\pt-BR\IntroducaoForm.resources.dll
+D:\Faculdade\3º\POO\POO\IntroducaoForm\IntroducaoForm\obj\Debug\IntroducaoForm.Form1.pt-BR.resources
+D:\Faculdade\3º\POO\POO\IntroducaoForm\IntroducaoForm\obj\Debug\pt-BR\IntroducaoForm.resources.dll
