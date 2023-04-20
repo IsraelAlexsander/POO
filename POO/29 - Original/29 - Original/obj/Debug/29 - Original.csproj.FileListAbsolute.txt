@@ -1,0 +1,8 @@
+D:\Faculdade\3º\POO\POO\29 - Original\29 - Original\bin\Debug\29 - Original.exe.config
+D:\Faculdade\3º\POO\POO\29 - Original\29 - Original\bin\Debug\29 - Original.exe
+D:\Faculdade\3º\POO\POO\29 - Original\29 - Original\bin\Debug\29 - Original.pdb
+D:\Faculdade\3º\POO\POO\29 - Original\29 - Original\obj\Debug\29 - Original.csproj.AssemblyReference.cache
+D:\Faculdade\3º\POO\POO\29 - Original\29 - Original\obj\Debug\29 - Original.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\3º\POO\POO\29 - Original\29 - Original\obj\Debug\29 - Original.csproj.CoreCompileInputs.cache
+D:\Faculdade\3º\POO\POO\29 - Original\29 - Original\obj\Debug\29 - Original.exe
+D:\Faculdade\3º\POO\POO\29 - Original\29 - Original\obj\Debug\29 - Original.pdb
