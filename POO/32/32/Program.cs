@@ -59,7 +59,7 @@ namespace _32
 
             xAluno = new Aluno();
 
-            var Query = from a in AlunoXML.Elements("Aluno") select a;
+            var Query = from p in AlunoXML.Elements("Aluno") select p;
 
             foreach(var Registro in Query)
             {
