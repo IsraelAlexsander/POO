@@ -1,0 +1,8 @@
+D:\Faculdade\3º\POO\POO\34\34\bin\Debug\34.exe.config
+D:\Faculdade\3º\POO\POO\34\34\bin\Debug\34.exe
+D:\Faculdade\3º\POO\POO\34\34\bin\Debug\34.pdb
+D:\Faculdade\3º\POO\POO\34\34\obj\Debug\34.csproj.AssemblyReference.cache
+D:\Faculdade\3º\POO\POO\34\34\obj\Debug\34.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\3º\POO\POO\34\34\obj\Debug\34.csproj.CoreCompileInputs.cache
+D:\Faculdade\3º\POO\POO\34\34\obj\Debug\34.exe
+D:\Faculdade\3º\POO\POO\34\34\obj\Debug\34.pdb
