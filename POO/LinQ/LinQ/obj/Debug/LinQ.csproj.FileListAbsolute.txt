@@ -1,0 +1,8 @@
+D:\Faculdade\3º\POO\POO\LinQ\LinQ\bin\Debug\LinQ.exe.config
+D:\Faculdade\3º\POO\POO\LinQ\LinQ\bin\Debug\LinQ.exe
+D:\Faculdade\3º\POO\POO\LinQ\LinQ\bin\Debug\LinQ.pdb
+D:\Faculdade\3º\POO\POO\LinQ\LinQ\obj\Debug\LinQ.csproj.AssemblyReference.cache
+D:\Faculdade\3º\POO\POO\LinQ\LinQ\obj\Debug\LinQ.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\3º\POO\POO\LinQ\LinQ\obj\Debug\LinQ.csproj.CoreCompileInputs.cache
+D:\Faculdade\3º\POO\POO\LinQ\LinQ\obj\Debug\LinQ.exe
+D:\Faculdade\3º\POO\POO\LinQ\LinQ\obj\Debug\LinQ.pdb

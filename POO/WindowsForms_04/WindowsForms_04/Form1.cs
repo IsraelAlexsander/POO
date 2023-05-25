@@ -21,14 +21,16 @@ namespace WindowsForms_04
         {
             DialogResult Result = new DialogResult();
 
-            openFileDialog1.Filter = "Documentos do Word 2003|*.doc|Documentos do Word 2007|*.docx";
+            //openFileDialog1.Filter = "Documentos do Word 2003|*.doc|Documentos do Word 2007|*.docx";
+            openFileDialog1.Filter = "Arquivos XML|*.xml";
 
             Result = openFileDialog1.ShowDialog();
 
             if (Result == DialogResult.OK)
             {
                 textBox1.Text = "Caixa de Diálogo - Arquivo Selecionado..." + Environment.NewLine;
-                textBox1.Text += "Nome do Arquivo: " + openFileDialog1.SafeFileName + Environment.NewLine;                
+                textBox1.Text += "Nome do Arquivo: " + openFileDialog1.SafeFileName + Environment.NewLine;
+                textBox1.Text += ;
             }
         }
     }

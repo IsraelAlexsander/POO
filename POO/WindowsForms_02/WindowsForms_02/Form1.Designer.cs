@@ -36,6 +36,7 @@
             this.txtProcura = new System.Windows.Forms.ToolStripTextBox();
             this.btnSair = new System.Windows.Forms.ToolStripButton();
             this.DGVAluno = new System.Windows.Forms.DataGridView();
+            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.toolStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.DGVAluno)).BeginInit();
             this.SuspendLayout();
@@ -137,6 +138,7 @@
         private System.Windows.Forms.ToolStripTextBox txtProcura;
         private System.Windows.Forms.ToolStripButton btnSair;
         private System.Windows.Forms.DataGridView DGVAluno;
+        private System.ComponentModel.BackgroundWorker backgroundWorker1;
     }
 }
 
